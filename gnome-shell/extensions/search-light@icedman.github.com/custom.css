@@ -1,0 +1,11 @@
+
+#searchLight {
+  background: rgba(31,26,47,1.0); 
+  border: 1px solid rgba(255,255,255,1.0);}
+#searchLight,
+#searchLightBox,
+#searchLightBlurredBackground,
+#searchLightBlurredBackgroundImage,
+StBoxLayout.search-section-content { border-radius: 32px !important; }
+#searchLightBox > StEntry, #searchLightBox > StEntry:focus { font-size: 16pt !important; }
+#searchLightBox * { color: rgba(255,255,255,1.0) !important }
